@@ -1,0 +1,60 @@
+1
+Bicycle
+In the backyard
+HI001
+true
+6000
+May 12, 2005
+Flipkart
+Birthday present
+C:\Users\Dell\Documents\NetBeansProjects\HomeInventory\src\homeinventory\InventoryPhotos\bicycle.jpg
+2
+Dining set
+In the dining room
+HI002
+true
+29000
+Aug 01, 2015
+Flipkart
+Family time
+C:\Users\Dell\Documents\NetBeansProjects\HomeInventory\src\homeinventory\InventoryPhotos\dining.jpg
+3
+Sofa
+In the hall
+HI003
+true
+23000
+Aug 21, 2018
+Pepperfry
+Family time
+C:\Users\Dell\Documents\NetBeansProjects\HomeInventory\src\homeinventory\InventoryPhotos\sofa.jpg
+4
+Table
+In the hall
+HI004
+true
+20000
+Sep 01, 2015
+Pepperfry
+Family time
+C:\Users\Dell\Documents\NetBeansProjects\HomeInventory\src\homeinventory\InventoryPhotos\sofa.jpg
+5
+Sofa
+In the hall
+HI005
+true
+23000
+Aug 11, 2015
+Pepperfry
+Family time
+C:\Users\Dell\Documents\NetBeansProjects\HomeInventory\src\homeinventory\InventoryPhotos\sofa.jpg
+6
+Refrigrator
+In the kitchen
+HI015
+true
+26000
+Feb 01, 2020
+Amazon
+Food storage
+C:\Users\Dell\Documents\NetBeansProjects\HomeInventory\src\homeinventory\InventoryPhotos\refrigerator.jpg
